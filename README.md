@@ -1,3 +1,13 @@
+# BiteSwift 🍴  
+
+A food ordering web application built with the MERN stack.  
+This repository contains only the **frontend (React + Vite + Tailwind)** part of the project.  
+
+## 🚀 Live Demo  
+[BiteSwift Frontend on Vercel](https://bite-swift-ten.vercel.app/)  
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
